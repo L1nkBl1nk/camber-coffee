@@ -3,9 +3,9 @@
 A warm, artisan **landing page for a specialty coffee shop**, built as a portfolio
 piece to showcase clean, fully-responsive front-end work — no frameworks, no build step.
 
-🔗 **[Live demo →](https://camber-coffee-duusatmum-hazard-team.vercel.app)**
+🔗 **[Live demo →](https://camber-coffee.vercel.app)**
 
-![Camber Coffee preview](https://image.thum.io/get/width/1200/https://camber-coffee-duusatmum-hazard-team.vercel.app)
+![Camber Coffee preview](https://image.thum.io/get/width/1200/https://camber-coffee.vercel.app)
 
 ## The brief
 A small specialty roaster needs a site that feels premium and inviting, shows the
